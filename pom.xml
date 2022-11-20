@@ -20,7 +20,7 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
-        <!--导入spring的坐标spring-context，对应版本是5.2.10.RELEASE-->
+        <!--导入spring的坐标spring-context，对应版本是5.3.23-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
